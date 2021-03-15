@@ -1,0 +1,6 @@
+C:\Users\ahmed\Desktop\Assignment 6 ACG\raytracing_solution\VS\x64\Debug\Raytracing.exe
+C:\Users\ahmed\Desktop\Assignment 6 ACG\raytracing_solution\VS\x64\Debug\Raytracing.pdb
+C:\Users\ahmed\Desktop\Assignment 6 ACG\Stage 2\VS\x64\Debug\Raytracing.exe
+C:\Users\ahmed\Desktop\Assignment 6 ACG\Stage 2\VS\x64\Debug\Raytracing.pdb
+C:\Users\DEXTER\Desktop\Assignment 6 ACG\Stage 2\VS\x64\Debug\Assignment 6.exe
+C:\Users\DEXTER\Desktop\Assignment 6 ACG\Stage 2\VS\x64\Debug\Assignment 6.pdb
